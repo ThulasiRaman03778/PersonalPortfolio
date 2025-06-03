@@ -21,7 +21,7 @@ This project is a creative fusion of frontend technologies and cosmic aesthetics
 
 ## 🌐 Live Demo
 
-👉 [**View Live Demo**](https://your-live-demo-link.com)  
+👉 [**View Live Demo**](https://thulasiramans03778.netlify.app/)
 <sub>*Best viewed on desktop in modern browsers.*</sub>
 
 ---
@@ -54,7 +54,7 @@ This project is a creative fusion of frontend technologies and cosmic aesthetics
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/space-portfolio.git
+git clone https://github.com/ThulasiRaman03778/PersonalPortfolio.git
 
 # 2. Navigate to the project directory
 cd space-portfolio
@@ -157,7 +157,7 @@ THE SOFTWARE.
 Want to collaborate or send feedback?
 
 - 📧 Email: [s.thulasiraman03778@gmail.com](mailto:s.thulasiraman03778@gmail.com)  
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- 🌐 Portfolio: [Thulasi Raman S](https://thulasiramans03778.netlify.app)  
 - 🐙 GitHub: [@Thulasi Raman S](https://github.com/ThulasiRaman03778)  
 
 ---
